@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning  JavaScript
 - 👯 I’m looking to collaborate in the open source community!
-- 🥅 My Goals: learn React, 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 My Goals: learn React, Node.js, Express, SQL, MySQL, MongoDB, Python, Django
+- ⚡ I love to pay video-games, build gaming computers!! and Crypto Mining. 
 
 ### Connect with me:
 
